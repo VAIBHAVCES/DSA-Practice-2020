@@ -1,0 +1,25 @@
+**********DAY-1 --9th oct *******
+custom build heap 
+kth largest element using heap 
+leetcode 215
+leetcode 703
+**********DAY -2 --10th oct -2020 HASHMAP AND STACK
+
+leetcode 378
+LEETCODE 349
+leetcode 350
+leetcode 128
+leetcode 347
+GFG check-arithmetic-progression/0
+leetcode 760
+leetcode 49
+
+************** DAY -3 ******
+leetcode 380
+sort a nearly sorted array (k sorted )
+max consectuve ones in a binary array 
+leetcode 973
+***lintcode 908
+leetcode 895
+gfg check-two-strings-k-anagrams-not/
+check-anagram-string-palindrome-not/

@@ -1,0 +1,14 @@
+******20th october **********
+leetcode 337 house rubber -3
+convert a btree to bst- TC- nlogn +2n and Space- recusive only
+    METHOD -:       tree -> Doubly linked list -> Sorted Doubly linked list -> BST
+merge two bst 
+    MERHOD-: convert two bst into 2 DLL -> merge DLL -> BST
+leetcode 1339
+
+*********21st October***********
+leetcode 116 (aproach bhot pyaari hai see it )
+leetcode 117
+clone a btree with random pointers
+    -two aproaches with hashmap and without hashmmap
+    -bina hashmap vali badi dhasoo hai try that 

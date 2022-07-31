@@ -1,0 +1,21 @@
+leetcode 21
+leetcode 328
+GFG-segregate-even-and-odd-elements-in-a-linked-list/
+leecode 61
+leetcode 143
+leetcode 19
+leetcode 148
+leetcode 23
+************
+leetcode 141
+leetcode 143
+leetcode 142
+-
+leetcode 160 
+leetcode 92
+leetcode 25
+-
+
+***********DAY - 4
+leetcode 138
+leetcode 146

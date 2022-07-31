@@ -1,0 +1,85 @@
+**********DAY -1 *************
+MAZE PATH WITH VARIABLE JUMP RIGHT LEFT DIAG JUMP ALLOWED
+board jumps
+**************DAY -2 STRING SET class 79 ********
+-longest palindromic subsequence ( leetcode 516 )
+-- print string also using that dp 
+-long common subsequence GFG
+-find also the logest common subsequent string 
+-count palindromic subsequence GFG
+-leetcode 115 ( both mem and tab )
+***************DAY-3- STRING SET 30th sept **********
+-leetcode 940
+-number of subseq of form a^i*b^j*c^k
+-leetcode 72
+-longest-common-subsequence-three-strings GFG
+-leetcode 44 wildcard matching
+*************DAY -4 STRIGN SET 1st oct  class 80 *********
+leetcode 91 
+	Time - O(2^n)-recursive
+	Time -O(n) -linear space memoized
+	Time -O(n) -linear space tabulated
+	Time -O(n) -constant space tabulated
+	
+leetcode 639 decode ways-2
+leetcode 322	
+find no of solutions of linear equation gfg
+
+
+**************DAY -6 video 83  2nd oct ********
+
+leetcode 416
+leetcode 494
+longest decreasing subsequence
+lis
+longest bitonic sub
+min no of deleteion required to maje array sorted
+leetocde 300
+https://www.geeksforgeeks.org/maximum-size-sub-matrix-with-all-1s-in-a-binary-matrix/
+https://leetcode.com/problems/russian-doll-envelopes/
+https://leetcode.com/problems/arithmetic-slices/
+https://leetcode.com/problems/longest-arithmetic-subsequence/
+https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/
+leetcode 673
+leetcode 354
+******************* day - 7 video 84 lis and cut problems 3rd oct ***********
+longest decreasing subsequence
+v shaped pattern 
+longest bitonic subsequence 
+leetcode 673
+leetcode 354
+max size squre submatrix with all ones	
+leetcode 413
+leetcode 1027
+leetcode 1218
+
+******************** day -8 video 85 dp lis and cut problem 
+leetcode 446
+gfg building bridges 
+gfg maximum sum increasing subsequence 
+gfg longest alternating subsequence 
+gfg matrix chain multiplication 
+gfg min and max value os expression using + and *
+ ****************** day - 9 video 86 dp lis and cut problems
+ gfg  print bracket configuration of matrix chain multiplicatoin 
+ leetcode 312 ***very good ques
+ gfg box stacking problem 
+
+
+ *****************************************************
+ ************ YE QUES NAHI KARA ABHI TAK KAR LE ISKO BHAI*****************
+ leetcode 1039  ************************** NEED SOME PREREQUISITES OF CATALAN NUMBER *****
+*******************************
+
+
+ **************** day - 10 video 88 dp lis and cut problems 
+ boolean paranthization
+ leettcode 1278 *** very nice ques ****
+ leetcode 1216  also on gfg 
+ leetcode 688
+ leetcode 894 
+ leetcode 132 
+  ***************  AFTER THIS DAY -88 PART -2 VIDEO 
+  
+ 
+ 

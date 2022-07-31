@@ -1,0 +1,13 @@
+********** 22ND OCTOBER ***
+BINARY SEARCH
+
+find closest element to give elem 
+leetcode 74
+leetcode 34
+leetcode 658
+leetcode 33
+******************24TH OCTOBER****
+leetcode lis in TC O(nlogn)
+count inversions using merge sort 
+leetcode 240
+leetcode 875

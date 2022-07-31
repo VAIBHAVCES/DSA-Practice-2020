@@ -1,0 +1,27 @@
+****************day 88 heap introduction , own builded and problems
+leetcode 215 
+leetcode 703
+*****************day -89 heap intro 
+gfg sort near sorted array 
+gfg max consecutive ones and zeros in a binary tree
+leetcode 973
+leetcode 356
+leetcode 895**** worth it question ****
+gfg check two strings are k anagram or not 
+gfg check if any anagram of a string is palindrome or not 
+leetcode 42 ***very imp ***
+leetcode 407  *** faadu hai very tough algo **
+gfg check if frrequency of all characters can be same by one removal
+
+************ day -90 **************
+leetcode 76 *** hard but weird algo 
+gfg Smallest window that contains all characters of string itself
+leetcode 340 longest substring with atmost  k distinct chars 
+leetcode 159 
+gfg length of longest substring without repeating characters
+
+leetcode 239 --- 2 methods 2nd method very imp  try stack soln
+leetcode 954
+gfg length of longest subaaray with contiguous elements
+gfg Count pairs in array whose sum is divisible by K
+

@@ -1,0 +1,15 @@
+stacks ended on 5th sept 
+
+dp started on 7th sept
+1-fib - memo , rec , tab
+2-maze path  - horizontal vertical ,horizontal vertical  diag ,
+ 	hori verti diag jump infinite
+3- given 6 face dice find ways to achieve 10 
+leetcode 62
+leetcode 63
+leetcode 70
+leetcode 746
+leetcode 64
+GFG /gold-mine-problem/
+GFG /friends pairing probelm
+GFG count-number-of-ways-to-partition-a-set-into-k-subsets/

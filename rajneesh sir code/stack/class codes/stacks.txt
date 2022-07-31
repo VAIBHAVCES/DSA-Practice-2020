@@ -1,0 +1,14 @@
+next greater on right
+next greater on left
+next smaller on right
+next smaller on left
+leetcode 20 
+leetcode 1021
+leetcode 503
+leetcode 496
+leetcode 921 -try this without stack using ints 
+leetcode 32
+leetcode 1249
+leetcode 735
+leetcode 84
+leetcode 85

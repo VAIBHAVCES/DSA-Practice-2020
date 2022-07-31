@@ -1,0 +1,9 @@
+*********HASHMAPS
+leetcode 787
+leetcode 560
+leetcode 974
+leetcode 861
+leetcode 525
+count subarray divisible by k 
+count subarray with equal noo of 0s and 1s 
+coutn substring with equal number of 0s and 1s 

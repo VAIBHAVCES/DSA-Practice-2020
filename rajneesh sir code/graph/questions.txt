@@ -1,0 +1,28 @@
+DAY-1
+LEETCODE -200
+LEETCODE - 695
+LEETCODE- 463
+DAY-2 ---------
+***based on bfs traversals 
+*******below one are very important **********
+leetcode 130 -------
+leetcode 785
+leetcode 994  ****amazon important question*s
+leetcode 1091
+leetcode 542
+
+leetcode 1020
+----------DAY -3 --------
+TOPIC- 1 TOPOLOGICAL SORT
+leetcod 207
+leetcode 329**very nice question apply khan's algo
+leetcode 815
+-----------------DAY-4-----------
+---------UNION AND FIND QUESTION-
+leetcode 200
+leetcode 547
+leetcode 1061 search on google***imp***
+leetcode 684
+leetcode 839****imp****
+leetcode 305
+

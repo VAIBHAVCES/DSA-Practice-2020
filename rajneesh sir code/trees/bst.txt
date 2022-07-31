@@ -1,0 +1,30 @@
+*******flow of control
+LCA has many solution explore all
+leetcode 235 
+leetcode 173---done  
+********
+BINARY TREE TO CDLL GFG
+leetcode 99 recover bst
+***************
+convert preorder to BST(leet 1008)
+
+
+convert preorder to tree
+*********DAY-2********
+285 LEETCODE 
+510 LEETCODE
+leetcode 230 O(n) space O(1)
+add node in bst
+leet code 450 , delete node 
+
+*********DAY -3 *********
+leetcode 105
+leetcode 106
+leetcode 968
+**************DAY-4 **********
+iterative traversals using stack
+leetcode 979
+leetcode 230
+leetcode 450
+leetcode 510
+leetcode 230
